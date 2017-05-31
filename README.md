@@ -1,6 +1,6 @@
 # GIG Cockpit
 
-The GIG cockpit is a set of APIs that let you create and consume services from a G8OS grid.
+The GIG cockpit is a set of APIs that let you create and consume services from a Zero-OS grid.
 ### APIs:
 - [VirtualDataCenter API](https://github.com/gig-cockpit/VDC-API): This API let you deal with virtual machine and container.
 - [S3 API](https://github.com/gig-cockpit/S3-API): This API let you deploy S3 compatible servers
